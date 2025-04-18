@@ -2,7 +2,7 @@
 
 * [Введение](README.md)
 * [Лицензия](license.md)
-* [Что такое Gophish?](what-is-gophish.md)
+* [Что такое Ruphish?](what-is-ruphish.md)
 * [Установка](installation.md)
 * [Начало работы](getting-started.md)
 * [Документация](documentation/README.md)
