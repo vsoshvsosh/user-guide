@@ -27,6 +27,5 @@
   * [Создание целевой страницы](building-your-first-campaign/creating-the-landing-page.md)
   * [Запуск кампании](building-your-first-campaign/launching-the-campaign.md)
 * [Справочник по шаблонам](template-reference.md)
-* [Дополнительные ссылки](additional-references.md)
 * [Часто задаваемые вопросы](faq.md)
 
